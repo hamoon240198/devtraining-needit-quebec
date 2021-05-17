@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Ha Le 2" max_length="40" name="x_58872_needit_ha_le_2" type="collection">
+        <element label="Age 1" max_length="40" name="age_1" type="integer"/>
+        <element label="Ha Le 1" max_length="40" name="ha_le_1" type="string"/>
+        <element default="this is a default value" label="New field 2" max_length="100" name="new_field_2" type="string"/>
+    </element>
+</database>

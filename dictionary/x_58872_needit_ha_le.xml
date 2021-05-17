@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Ha Le" max_length="40" name="x_58872_needit_ha_le" type="collection">
+        <element label="New field 1" max_length="40" name="new_field_1" type="integer"/>
+        <element label="New Audio" max_length="40" name="u_audio_3" type="audio"/>
+        <element label="State" max_length="40" name="u_audio_4" type="audio"/>
+        <element label="Number" max_length="40" name="u_float_1" type="float"/>
+        <element label="Assigned to" max_length="40" name="u_float_2" type="float"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="New Price" max_length="20" name="u_price_5" type="price"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="New Price" max_length="20" name="u_price_6" type="price"/>
+    </element>
+</database>
